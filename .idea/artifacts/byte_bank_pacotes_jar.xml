@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="byte-bank-pacotes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/byte_bank_pacotes_jar</output-path>
+    <root id="archive" name="byte-bank-pacotes.jar">
+      <element id="module-output" name="byte-bank-pacotes-e-utils" />
+    </root>
+  </artifact>
+</component>
